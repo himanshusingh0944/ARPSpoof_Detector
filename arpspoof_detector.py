@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import scapy.all as scapy
 
 def get_mac(ip):
